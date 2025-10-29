@@ -1,16 +1,18 @@
 site_name: element.ai
 site_description: e-textiles experiments documentation
 site_author: Ieva Marija Dautartaitė
-site_url: https://example.com
+site_url: https://imdrift.github.io/element.ai/
 theme:
   name: material
+  logo: assets/5logo.png
+  favicon: assets/favicon.png
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: brown
+      primary: black
       accent: deep orange
 
     # Light Mode
@@ -18,19 +20,21 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: brown
+      primary: black
       accent: deep orange
   
   features:
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.sections
-  - toc.integrate
+  - navigation.indexes
   - navigation.top
   - content.code.copy
   - content.code.select
   - content.code.annotate
 
+extra:
+  homepage: https://imdrift.github.io/element.ai/
  
 markdown_extensions:
 # Code blocks
