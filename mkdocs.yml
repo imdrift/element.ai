@@ -6,6 +6,9 @@ theme:
   name: material
   logo: assets/5logo.png
   favicon: assets/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Dark Mode
     - scheme: slate
