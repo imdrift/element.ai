@@ -2,7 +2,7 @@
 
 ## Welcome to the heaven of failures!
 
-This is my lab notebook for e-textiles: a place to document experiments and experiences.
+This is my lab notebook for e-textiles: a place to document *experi*ments and *experi*ences.
 
 ## Studies
 
