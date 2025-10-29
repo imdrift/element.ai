@@ -26,6 +26,7 @@ Thomas Wilde created very cozy and [clear video](https://www.youtube.com/watch?v
 ### Programs and Extensions
 
 [**Visual Studio Code**](https://code.visualstudio.com/) and extensions
+
 - Git Graph
 - YAML by Red Hat
 - Material Icon Theme
