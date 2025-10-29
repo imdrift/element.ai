@@ -1,0 +1,59 @@
+site_name: My Docs
+site_url: https://example.com
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: brown
+      accent: deep orange
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: brown
+      accent: deep orange
+  
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - toc.integrate
+  - navigation.top
+  - content.code.copy
+  - content.code.select
+  - content.code.annotate
+
+ 
+markdown_extensions:
+# Code blocks
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - tags
+
+
+
+
+
+nav:
+  - Home: index.md
+  - About: 
+      - About me: about/about.md
+      - Project: about/why.md
+  - Experiments:
+      - experiment №001: experiments/ex001.md
+  
+
