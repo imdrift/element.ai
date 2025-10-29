@@ -1,7 +1,16 @@
+# Project information
 site_name: element.ai
 site_description: e-textiles experiments documentation
 site_author: Ieva Marija Dautartaitė
 site_url: https://imdrift.github.io/element.ai/
+# Copyright
+copyright: Copyright &copy; 2025 element.ai
+
+# Repository
+repo_name: imdrift/element.ai
+repo_url: https://github.com/imdrift/element.ai
+
+# Configuration
 theme:
   name: material
   logo: assets/5logo.png
@@ -17,7 +26,7 @@ theme:
         name: Dark mode
       primary: black
       accent: deep orange
-
+    
     # Light Mode
     - scheme: default
       toggle:
@@ -27,8 +36,6 @@ theme:
       accent: deep orange
   
   features:
-  - navigation.tabs
-  - navigation.tabs.sticky
   - navigation.sections
   - navigation.indexes
   - navigation.top
@@ -37,6 +44,7 @@ theme:
   - content.code.select
   - content.code.annotate
 
+# Extensions
 extra:
   homepage: https://imdrift.github.io/element.ai/
   social:
@@ -45,8 +53,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ieva-marija-dautartaite/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/aelementai/
- 
+      link: https://www.instagram.com/aelementai/ 
 markdown_extensions:
 # Code blocks
   - pymdownx.highlight:
@@ -61,16 +68,13 @@ plugins:
   - search
   - tags
 
-
+# Page tree
 nav:
-  - Home: index.md
-  - About: 
-      - About me: about/about.md
-      - Project: about/why.md
+  - Inspirations: index.md
   - Experiments:
       - experiment №001: experiments/ex001.md
 
 
-copyright: Copyright &copy; 2025 element.ai
+
   
 
