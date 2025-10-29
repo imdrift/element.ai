@@ -59,9 +59,6 @@ plugins:
   - tags
 
 
-
-
-
 nav:
   - Home: index.md
   - About: 
