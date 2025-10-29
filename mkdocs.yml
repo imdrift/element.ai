@@ -29,12 +29,20 @@ theme:
   - navigation.sections
   - navigation.indexes
   - navigation.top
+  - navigation.footer
   - content.code.copy
   - content.code.select
   - content.code.annotate
 
 extra:
   homepage: https://imdrift.github.io/element.ai/
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/imdrift/element.ai
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ieva-marija-dautartaite/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/aelementai/
  
 markdown_extensions:
 # Code blocks
@@ -61,5 +69,8 @@ nav:
       - Project: about/why.md
   - Experiments:
       - experiment №001: experiments/ex001.md
+
+
+copyright: Copyright &copy; 2025 element.ai
   
 
