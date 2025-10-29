@@ -8,18 +8,17 @@ In 2023, I completed [Fabricademy](https://textile-academy.org/) course, which g
 # Documentation
 During the course, I met some very inspiring people who showed me so much that it was simply impossible to stop :) I am very grateful to my mentor Nuria Robles Miguelez, who taught me [how to document creative processes](https://class.textile-academy.org/2023/ieva-dautartaite/). Inspired by her and Fabricademy course, I created this site so that failures and successes would be visible and unforgettable.
 
-### Tools
-This site is build on [GitHub](https://github.com/) platform using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It took me one week to remember and understand how to build the site, but the effort was worth it and now I can share some tips.
-Here you will find codes and programs for Windows.
-
-### Links to follow
+# Site
 James Willett provides very clear steps to follow.
 Tuttorials on [Youtube](https://www.youtube.com/watch?v=pPEUhfTZswc) and his [website](https://jameswillett.dev/)
 You can [download starter package](https://tinyurl.com/3n4tjmnn) to build.
 
 Thomas Wilde created very cozy and [clear video](https://www.youtube.com/watch?v=DeZjkCtttss) with nice musical background.
 
-### Programs and Extensions
+## Tools
+This site is build on [GitHub](https://github.com/) platform using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It took me one week to remember and understand how to build the site, but the effort was worth it and now I can share some tips.
+Here you will find codes and programs for Windows.
+
 [Visual Studio Code](https://code.visualstudio.com/) and extensions
 
 - Git Graph
