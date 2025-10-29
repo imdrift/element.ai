@@ -38,6 +38,7 @@ theme:
   features:
   - navigation.sections
   - navigation.indexes
+  - navigation.tracking
   - navigation.top
   - navigation.footer
   - content.code.copy

@@ -72,16 +72,17 @@ To publish on GitHub
     7. pip install mkdocs-material
     8. mkdocs serve
 
-=== "Ordered list"
+=== "To publish on GitHub"
 
     1. git add .
     2. commit -m $'Setting up for CI deploy
     3. git push origin main
 
+=== "PowerShell"
 
-PowerShell:
+    * pip cache purge
 
-pip cache purge
+
 
 
 
