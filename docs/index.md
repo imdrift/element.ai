@@ -44,24 +44,6 @@ Local path: C:\Users\user\project
 
 Type "System Properties" and go to Environment Variables...Path...Edit...Add New (push OK in every window)
 
-Visual Studio Code:
-
-1. cd "C:\Users\user\project"
-2. where python
-3. python -m venv venv
-4. .\venv\Scripts\activate
-6. pip --version
-7. pip install mkdocs-material
-8. mkdocs serve
-
-To publish on GitHub
-
-1. git add .
-2. commit -m $'Setting up for CI deploy
-3. git push origin main
-
-
-
 === "Visual Studio Code"
 
     1. cd "C:\Users\user\project"
