@@ -54,6 +54,7 @@ extra:
       link: https://www.linkedin.com/in/ieva-marija-dautartaite/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/aelementai/ 
+
 markdown_extensions:
 # Code blocks
   - pymdownx.highlight:
@@ -63,10 +64,15 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 plugins:
   - search
   - tags
+  - glightbox
 
 # Page tree
 nav:
