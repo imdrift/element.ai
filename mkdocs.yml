@@ -70,7 +70,7 @@ plugins:
 
 # Page tree
 nav:
-  - Inspirations: index.md
+  - Welcome to the heaven of failures!: index.md
   - Experiments:
       - experiment №001: experiments/ex001.md
 

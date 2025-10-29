@@ -1,10 +1,6 @@
-# Inspirations
-
-## Welcome to the heaven of failures!
+# Welcome to the heaven of failures!
 
 This is my lab notebook for e-textiles: a place to document *experi*ments and *experi*ences.
-
-## Studies
 
 This site is part of my Masters studies in [Vilnius Academy of Arts (VDA)](https://www.vda.lt/en/) Fashion Design programme. Master studies supervisors: for creative work Doc. Dainius Bendikas and for research Doc. Dr. Deima Katinaitė.
 
