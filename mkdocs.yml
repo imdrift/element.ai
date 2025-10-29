@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: element.ai
+site_description: e-textiles experiments documentation
+site_author: Ieva Marija Dautartaitė
 site_url: https://example.com
 theme:
   name: material
