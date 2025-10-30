@@ -1,4 +1,5 @@
 # Welcome to the heaven of failures!
+
 This is my lab notebook for e-textiles: a place to document *experi*ments and *experi*ences.
 
 This site is part of my Masters studies in [Vilnius Academy of Arts (VDA)](https://www.vda.lt/en/) Fashion Design programme. Master studies supervisors: for creative work Doc. Dainius Bendikas and for research Doc. Dr. Deima Katinaitė.
@@ -7,9 +8,12 @@ In 2023, I completed [Fabricademy](https://textile-academy.org/) course, which g
 
 
 # Documentation
+
 During the course, I met some very inspiring people who showed me so much that it was simply impossible to stop :) I am very grateful to my mentor Nuria Robles Miguelez, who taught me [how to document creative processes](https://class.textile-academy.org/2023/ieva-dautartaite/). Inspired by her and Fabricademy course, I created this site so that failures and successes would be visible and unforgettable.
 
+
 # Site
+
 I'm not a coder, so I'll post some ready-made codes and links here, which took me a while to collect into one pile.
 
 James Willett provides very clear steps to follow.
@@ -18,7 +22,9 @@ You can [download starter package](https://tinyurl.com/3n4tjmnn) to build.
 
 Thomas Wilde created very cozy and [clear video](https://www.youtube.com/watch?v=DeZjkCtttss) with nice musical background.
 
+
 ## Tools
+
 This site is build on [GitHub](https://github.com/) platform using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It took me one week to remember and understand how to build the site, but the effort was worth it and now I can share some tips.
 Here you will find codes and programs for Windows.
 
