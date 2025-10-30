@@ -2,7 +2,7 @@
 
 This is my lab notebook for e-textiles: a place to document *experi*ments and *experi*ences.
 
-This site is part of my Masters studies in [Vilnius Academy of Arts (VDA)](https://www.vda.lt/en/) Fashion Design programme. Master studies supervisors: for creative work Doc. Dainius Bendikas and for research Doc. Dr. Deima Katinaitė.
+This site is part of my Masters studies in [Vilnius Academy of Arts (VDA)](https://www.vda.lt/en/) Fashion Design programme. Master studies supervisors: creative work Doc. Dainius Bendikas, research Doc. Dr. Deima Katinaitė.
 
 In 2023, I completed [Fabricademy](https://textile-academy.org/) course, which greatly inspired me to continue on this path. I sincerely recommend this course to anyone who is curious and wants to expand their knowledge in the field of textile technology. 
 
