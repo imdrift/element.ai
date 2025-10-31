@@ -84,7 +84,7 @@ plugins:
 nav:
   - Welcome to the heaven of failures!: index.md
   - Experiments:
-      - documentation: documentation.md
+      - documentation: experiments/documentation.md
       - experiment №001: experiments/ex001.md
       - experiment №002: experiments/ex002.md
       - experiment №003: experiments/ex003.md
