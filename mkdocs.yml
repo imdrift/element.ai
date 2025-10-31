@@ -73,6 +73,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption   
+  - toc:
+      permalink: true
 
 plugins:
   - search
@@ -82,6 +84,7 @@ plugins:
 nav:
   - Welcome to the heaven of failures!: index.md
   - Experiments:
+      - documentation: documentation.md
       - experiment №001: experiments/ex001.md
       - experiment №002: experiments/ex002.md
       - experiment №003: experiments/ex003.md
