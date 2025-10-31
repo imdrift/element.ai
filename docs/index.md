@@ -24,7 +24,7 @@ You can [download starter package](https://tinyurl.com/3n4tjmnn) to build.
 Thomas Wilde created very cozy and [clear video](https://www.youtube.com/watch?v=DeZjkCtttss) with nice musical background.
 
 
-## Tools
+# Tools
 
 This site is build on [GitHub](https://github.com/) platform using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It took me one week to remember and understand how to build the site, but the effort was worth it and now I can share some tips.
 Here you will find codes and programs for Windows.
@@ -44,7 +44,7 @@ Here you will find codes and programs for Windows.
 [Python](https://www.python.org/)
 
 
-## Installation
+# Installation
 
 Create project folder. Here you can add the downloaded files from [starter package](https://tinyurl.com/3n4tjmnn).
 
@@ -73,7 +73,7 @@ Type "System Properties" and go to Environment Variables...Path...Edit...Add New
     * pip cache purge
 
 
-## Markdown
+# Markdown
 
 Here you will find some markdown examples.
 
@@ -103,7 +103,7 @@ int sensorValue = 0;  // variable to store the value coming from the sensor
 
 
 
-#### How to fetch images
+### How to fetch images
 
 ``` py title="image markdown"
 ![filename.md](../images/imagename.png){ width=100 align=center }
