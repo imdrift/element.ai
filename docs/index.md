@@ -69,8 +69,65 @@ Type "System Properties" and go to Environment Variables...Path...Edit...Add New
     3. git push origin main
 
 === "PowerShell"
-
+    To clean the cash
     * pip cache purge
+
+
+## Markdown
+
+Here you will find some markdown examples.
+
+```
+int sensorPin = A0;   // select the input pin for the potentiometer
+int ledPin = 13;      // select the pin for the LED
+int sensorValue = 0;  // variable to store the value coming from the sensor
+```
+
+``` py hl_lines="2 3"
+int sensorPin = A0;   // select the input pin for the potentiometer
+int ledPin = 13;      // select the pin for the LED
+int sensorValue = 0;  // variable to store the value coming from the sensor
+```
+
+``` py title="code with title"
+int sensorPin = A0;   // select the input pin for the potentiometer
+int ledPin = 13;      // select the pin for the LED
+int sensorValue = 0;  // variable to store the value coming from the sensor
+```
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+
+
+#### How to fetch images
+
+``` py title="image markdown"
+![filename.md](../images/imagename.png){ width=100 align=center }
+```
+
+![index.md](../images/5logo_sp.png){ width=100 align=center }
+
+``` py title="image with caption markdown"
+![ex001.md](../images/5logo_sp.png){ width="100" }
+/// caption
+Image caption
+///
+```
+
+![index.md](../images/5logo_sp.png){ width="100" }
+/// caption
+Image caption
+///
+
+``` py title="full size image markdown"
+![ex001.md](../images/5logo_sp.png){ loading=lazy }
+```
+
+![index.md](../images/5logo_sp.png){ loading=lazy }
 
 
 
