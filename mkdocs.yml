@@ -38,13 +38,14 @@ theme:
   
   features:
   - navigation.sections
-  - navigation.indexes
   - navigation.tracking
+  - toc.follow
   - navigation.top
   - navigation.footer
   - content.code.copy
   - content.code.select
   - content.code.annotate
+
 
 # Extensions
 extra:

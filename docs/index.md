@@ -4,8 +4,7 @@ This is my lab notebook for e-textiles: a place to document *experi*ments and *e
 
 This site is part of my Masters studies in [Vilnius Academy of Arts (VDA)](https://www.vda.lt/en/) Fashion Design programme. Master studies supervisors: creative work Doc. Dainius Bendikas, research Doc. Dr. Deima Katinaitė.
 
-In 2023, I completed [Fabricademy](https://textile-academy.org/) course, which greatly inspired me to continue on this path. I sincerely recommend this course to anyone who is curious and wants to expand their knowledge in the field of textile technology. 
-
+In 2023, I completed [Fabricademy](https://textile-academy.org/) course, which greatly inspired me to continue on this path. I sincerely recommend this course to anyone who is curious and wants to expand their knowledge in the field of textile technology.
 
 
 # Documentation
@@ -18,8 +17,9 @@ During the course, I met some very inspiring people who showed me so much that i
 I'm not a coder, so I'll post some ready-made codes and links here, which took me a while to collect into one pile.
 
 James Willett provides very clear steps to follow.
-Tuttorials on [Youtube](https://www.youtube.com/watch?v=pPEUhfTZswc) and his [website](https://jameswillett.dev/)
-You can [download starter package](https://tinyurl.com/3n4tjmnn) to build.
+Tuttorials on [Youtube](https://www.youtube.com/watch?v=pPEUhfTZswc) and his [website](https://jameswillett.dev/).
+
+[Download starter package](https://tinyurl.com/3n4tjmnn) to build.
 
 Thomas Wilde created very cozy and [clear video](https://www.youtube.com/watch?v=DeZjkCtttss) with nice musical background.
 
@@ -102,8 +102,7 @@ int sensorValue = 0;  // variable to store the value coming from the sensor
 | `DELETE`    | :material-close:     Delete resource |
 
 
-
-### How to fetch images
+## How to fetch images
 
 ``` py title="image markdown"
 ![filename.md](../images/imagename.png){ width=100 align=center }
