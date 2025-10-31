@@ -80,6 +80,9 @@ plugins:
   - search
   - tags
 
+extra_css:
+  - stylesheets/extra.css
+
 # Page tree
 nav:
   - Welcome to the heaven of failures!: index.md
