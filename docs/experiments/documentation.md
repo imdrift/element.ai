@@ -88,16 +88,27 @@ int sensorValue = 0;  // variable to store the value coming from the sensor
 | `DELETE`    | :material-close:     Delete resource |
 
 
+## How to markdown site navigation
+
+```
+  - Home: index.md
+  - Folder:
+      - project1: folder/project1.md
+      - project2: folder/project2.md
+      - project3: folder/project3.md
+    
+```
+
 ## How to fetch images
 
 ``` py title="image markdown"
-![filename.md](../images/imagename.png){ width=100 align=center }
+![project1.md](../images/imagename.png){ width=100 align=center }
 ```
 
 ![documentation.md](../images/5logo_sp.png){ width=100 align=center }
 
 ``` py title="image with caption markdown"
-![ex001.md](../images/5logo_sp.png){ width="100" }
+![project1.md](../images/imagename.png){ width="100" }
 /// caption
 Image caption
 ///
@@ -109,7 +120,7 @@ Image caption
 ///
 
 ``` py title="full size image markdown"
-![ex001.md](../images/5logo_sp.png){ loading=lazy }
+![project1](../images/imagename.png){ loading=lazy }
 ```
 
 ![documentation.md](../images/5logo_sp.png){ loading=lazy }
